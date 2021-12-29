@@ -1,6 +1,6 @@
-# hello-express
+# Hola, Soy Lucia
 
-A server that serves a webpage, its resources, and some data
+A guess game for a Baby Shower
 
 
 ## Your Project
